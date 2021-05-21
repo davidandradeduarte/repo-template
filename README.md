@@ -6,7 +6,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -62,8 +61,6 @@ Read the [pre-commit hooks](docs/pre-commit-hooks.md) document for more info.
 
 ### git-chglog
 
-Read the [git-chglog](docs/git-chlog.md) document for more info.
-
 <!-- USAGE -->
 ## Usage
 
@@ -91,21 +88,26 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 Hi, 👋
 Get in touch at [https://davidandradeduarte.github.io/](https://davidandradeduarte.github.io/)
 
+[![Twitter][twitter-shield]][twitter-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Example](link)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/davidandradeduarte/repo-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/davidandradeduarte/repo-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/davidandradeduarte/repo-template.svg?style=for-the-badge
+[forks-url]: https://github.com/davidandradeduarte/repo-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/davidandradeduarte/repo-template.svg?style=for-the-badge
+[stars-url]: https://github.com/davidandradeduarte/repo-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/davidandradeduarte/repo-template.svg?style=for-the-badge
+[issues-url]: https://github.com/davidandradeduarte/repo-template/issues
+[license-shield]: https://img.shields.io/github/license/davidandradeduarte/repo-template.svg?style=for-the-badge
+[license-url]: https://github.com/davidandradeduarte/repo-template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/davidandradeduarte
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[twitter-url]: https://twitter.com/dvduarte95/

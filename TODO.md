@@ -1,7 +1,4 @@
-# repo-template
+# TODO
 
-TODO:
-
-automated changelog
-github workflows
-make this a public repo
+- implement semver releases (with gitversion)
+- add necessary github workflows
