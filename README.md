@@ -106,7 +106,7 @@ Get in touch at [https://davidandradeduarte.github.io/](https://davidandradeduar
 [issues-shield]: https://img.shields.io/github/issues/davidandradeduarte/repo-template.svg?style=for-the-badge
 [issues-url]: https://github.com/davidandradeduarte/repo-template/issues
 [license-shield]: https://img.shields.io/github/license/davidandradeduarte/repo-template.svg?style=for-the-badge
-[license-url]: https://github.com/davidandradeduarte/repo-template/blob/master/LICENSE.txt
+[license-url]: https://github.com/davidandradeduarte/repo-template/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/davidandradeduarte
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=linkedin&colorB=555
