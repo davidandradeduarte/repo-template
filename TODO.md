@@ -1,4 +1,4 @@
 # TODO
 
-- implement semver releases (with gitversion)
-- add necessary github workflows
+- Implement SemVer releases (with https://gitversion.net/)
+- Add necessary GitHub workflows
